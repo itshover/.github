@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![itshover Hero](images/1.png)
+![itshover Hero](../images/1.png)
 
   <h3>Animated icons for modern web apps</h3>
   
@@ -17,13 +17,13 @@
 
 **itshover** is an open-source library of animated React icons. Unlike traditional icon sets where animation is bolted on later, these icons are designed from the ground up with motion in mind.
 
-![Features Overview](images/2.png)
+![Features Overview](../images/2.png)
 
 Each icon is an editable React component that works with Next.js, shadcn/ui, and modern design systems.
 
 ## Why this exists
 
-![Motion First Design](images/3.png)
+![Motion First Design](../images/3.png)
 
 Most icon libraries add animation as an afterthought. We flipped that around—every icon here is built with its animation as a core part of the design. The result is icons that feel intentional and alive without being distracting.
 
@@ -37,9 +37,9 @@ Most icon libraries add animation as an afterthought. We flipped that around—e
 
 <div align="center">
 
-![Icon Collection](images/4.png)
+![Icon Collection](../images/4.png)
 
-![Icon Examples](images/5.png)
+![Icon Examples](../images/5.png)
 
 </div>
 
@@ -54,19 +54,19 @@ Browse the full collection at [itshover.com/icons](https://www.itshover.com/icon
 
 ## Who is this for?
 
-![Use Cases](images/7.png)
+![Use Cases](../images/7.png)
 
 If you're building web apps, dashboards, or design systems and want icons that do more than sit still, this library might be useful. Works particularly well for SaaS products, e-commerce sites, and interactive interfaces.
 
 ## Contributing
 
-![Community](images/8.png)
+![Community](../images/8.png)
 
 Contributions welcome. If you want to add icons, improve animations, fix bugs, or help with docs, check out the [GitHub repo](https://github.com/itshover/itshover).
 
 ## Support
 
-![Support the Project](images/9.png)
+![Support the Project](../images/9.png)
 
 This project is free and open source. If you find it helpful:
 - Star the [GitHub repo](https://github.com/itshover/itshover)
